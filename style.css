@@ -36,3 +36,9 @@ a { color:blue; text-decoration: none;}
 figure {
     text-align: center;
 }
+
+div.main input#search {
+    margin-top: 2px;
+    width: 800px;
+    height: 25px;
+}
